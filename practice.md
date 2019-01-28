@@ -28,3 +28,5 @@ int i = 21; //code
 *emphasis1*
 **emphasis2**
 ***emphasis3***
+
+![image](http://placehold.it/100)
