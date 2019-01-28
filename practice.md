@@ -18,3 +18,6 @@
 3. list3
 
 This is a `inline text`.
+
+```java:katsumata
+int i = 21; //code ```
