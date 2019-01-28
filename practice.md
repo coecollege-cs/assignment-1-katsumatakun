@@ -33,4 +33,4 @@ int i = 21; //code
 
 ~~slash~~
 
-<font color="red"> red </font>
+<font color="Red">red</font>
