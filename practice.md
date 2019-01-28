@@ -30,3 +30,5 @@ int i = 21; //code
 ***emphasis3***
 
 ![image](http://placehold.it/100)
+
+~~slash~~
