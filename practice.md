@@ -32,3 +32,5 @@ int i = 21; //code
 ![image](http://placehold.it/100)
 
 ~~slash~~
+
+<font color="red"> red </font>
