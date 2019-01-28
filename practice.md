@@ -22,3 +22,5 @@ This is a `inline text`.
 ```java:katsumata
 int i = 21; //code
  ```
+
+[Coe College](https://www.coe.edu/)
