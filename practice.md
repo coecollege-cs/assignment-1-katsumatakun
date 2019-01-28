@@ -32,3 +32,8 @@ int i = 21; //code
 ![image](http://placehold.it/100)
 
 ~~slash~~
+
+
+| Left align | Right align | Center align |
+| :----------|------------:|:------------:|
+|   This     |         This|      This    |
