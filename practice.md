@@ -24,3 +24,7 @@ int i = 21; //code
  ```
 
 [Coe College](https://www.coe.edu/)
+
+*emphasis1*
+**emphasis2**
+***emphasis3***
